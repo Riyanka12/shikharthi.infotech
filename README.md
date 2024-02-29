@@ -1,2 +1,2 @@
 # shikharthi.infotech
-1st project
+A web page on my collage Global Institute Of Management & Engineering(GIMT)
